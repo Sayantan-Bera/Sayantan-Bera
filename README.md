@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I’m currently working on Kotlin, XML, MVVM (Android Development)<br>🤖Solved 300+ problems on GeeksforGeeks<br>🕵️‍♂️ I’m interested in problem-solving, new technologies, and approaches<br>🤝 I’m looking for Android Development/Software developer Internships<br>🌱 I’m currently learning DSA, Android Development, and CS fundamentals<br>💬 Ask me about Android development and DSA<br>⚡ Fun fact ... love to explore
+👨‍💻 I’m currently working on Java,Kotlin, XML, MVVM (Android Development)<br>🤖Solved 400+ problems on GeeksforGeeks<br>🕵️‍♂️ I’m interested in problem-solving, new technologies, and approaches<br>🤝 I’m looking for Android Development/Software developer Internships<br>🌱 I’m currently learning DSA, Android Development, and CS fundamentals<br>💬 Ask me about Android development and DSA<br>⚡ Fun fact ... love to explore
 
 
 ## 🌐 Socials:
